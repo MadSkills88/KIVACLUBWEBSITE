@@ -1,0 +1,45 @@
+body{
+    margin:0 auto;
+    background:black;
+}
+#canvascontainer{
+    margin:0 auto;
+    width:1000px;
+    height:630px;
+}
+#startscreen{
+    background:black;
+    position:absolute;
+    width:1000px;
+    height:630px;
+}
+#startscreen #startbutton{
+    width:200px;
+    height:80px;
+    margin-left:400px;
+    margin-top:260px;
+    text-align:center;
+    font-family:sans-serif;
+    font-size:2em;
+}
+#restartbutton{
+    width:60px;
+    height:60px;
+    margin-left:474px;
+    margin-top:320px;
+    text-align:center;
+    font-family:sans-serif;
+    font-size:2em;
+    position:absolute;
+    background:black;
+    color:white;
+    opacity:0.6;
+    border-radius:50%;
+    border:1px solid black;
+}
+#restartbutton:hover{
+    opacity:1;
+}
+.hidden{
+    display:none;
+}
