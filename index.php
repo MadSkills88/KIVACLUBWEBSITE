@@ -244,7 +244,7 @@
                         </div>
                         <div class="6u 12u(mobile)">
                             <section>
-                                <p>IMPORTANT NOTE: The contact form does is not fully functional at the moment. We apologize for the inconvenience. If you have any questions, please email:
+                                <p>IMPORTANT NOTE: The contact form is not fully functional at the moment. We apologize for the inconvenience. If you have any questions, please email:
                                     <br>
                                     <a style="color:green; font-weight:bold;" href="mailto:asidapara@gmail.com">asidapara@gmail.com</a>
                                 </p>
