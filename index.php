@@ -251,13 +251,8 @@
                                 <div class="row">
                                     <div class="6u 12u(mobile)">
                                         <ul class="icons">
-                                            <li class="icon fa-home">
-                                                1234 Somewhere Road<br />
-                                                Nashville, TN 00000<br />
-                                                USA
-                                            </li>
                                             <li class="icon fa-phone">
-                                                (000) 000-0000
+                                                (480) 427-7377
                                             </li>
                                             <li class="icon fa-envelope">
                                                 <a href="mailto:asidapara@gmail.com">asidapara@gmail.com</a>
@@ -266,17 +261,12 @@
                                     </div>
                                     <div class="6u 12u(mobile)">
                                         <ul class="icons">
-                                            <li class="icon fa-twitter">
-                                                <a href="#">@untitled-tld</a>
-                                            </li>
-                                            <li class="icon fa-instagram">
-                                                <a href="#">instagram.com/untitled-tld</a>
-                                            </li>
-                                            <li class="icon fa-dribbble">
-                                                <a href="#">dribbble.com/untitled-tld</a>
+                                            <li class="icon fa-github">
+                                                <a href="https://github.com/MadSkills88/KIVACLUBWEBSITE">Github Repo</a>
                                             </li>
                                             <li class="icon fa-facebook">
-                                                <a href="#">facebook.com/untitled-tld</a>
+                                                <!--EMPTY LINK, NO FACEBOOK PAGE YET-->
+                                                <a>Find us on Facebook</a>
                                             </li>
                                         </ul>
                                     </div>
