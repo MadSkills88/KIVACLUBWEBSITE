@@ -1787,7 +1787,6 @@ button.alt:active,
         letter-spacing: 2px;
         padding: 0.85em 2.75em 0.85em 2.75em;
     }
-
     /* List */
 
     ul.actions li {
@@ -2170,6 +2169,11 @@ button.alt:active,
         display: block;
         padding: 1em 0 1em 0;
     }
+    #ss-submit {
+        letter-spacing: 2px;
+        display: block;
+        width:100%;
+    }
 
     /* List */
 
@@ -2485,3 +2489,17 @@ button.alt:active,
 .stats{margin-bottom:10px}#main .stats p{margin-bottom:10px}#main .stats ul{list-style:none;margin-left:0px;padding-left:0px}#main .stats li{margin-bottom:5px}#main .stats .number{font-size:2.6429em;margin-right:3px;vertical-align:-6px}.moreStats{margin-right:20px}section figure{background-color:#ddd;float:right;margin-bottom:20px;margin-left:10px;width:200px}section figure figcaption{font-size:0.9286em;padding:5px}#stats table tr td{padding:0.25em}
 
 .g4{display:inline;float:left;margin-left:10px;margin-right:10px}.g4{width:316px}.a{margin-left:0}.z{margin-right:0}.bR{border-right:#ccc 1px solid;margin-right:9px}.bL{border-left:#ccc 1px solid;margin-left:9px}.b .bR.a{margin-right:8px}.b .bL.a{margin-left:8px}.b,.p,.pLR{padding-left:20px;padding-right:20px}.pR{padding-right:20px}.pL{padding-left:20px}g2.b,.g3.b,.g4.b,.g5.b,.g6.b,.g7.b,.g8.b,.g9.b,.g10.b,.g11.b{margin-left:9px;margin-right:9px}.g2.b,.g2.p,.g2.pLR,.b .g2.pR.a,.b .g2.pR.z,.b .g2.pL.z{width:108px}.g3.b,.g3.p,.g3.pLR,.b .g3.pR.a,.b .g3.pR.z,.b .g3.pL.z{width:192px}.g4.b,.g4.p,.g4.pLR,.b .g4.pR.a,.b .g4.pR.z,.b .g4.pL.z{width:276px}.g5.b,.g5.p,.g5.pLR,.b .g5.pR.a,.b .g5.pR.z,.b .g5.pL.z{width:360px}.g6.b,.g6.p,.g6.pLR,.b .g6.pR.a,.b .g6.pR.z,.b .g6.pL.z{width:444px}.g7.b,.g7.p,.g7.pLR,.b .g7.pR.a,.b .g7.pR.z,.b .g7.pL.z{width:528px}.g8.b,.g8.p,.g8.pLR,.b .g8.pR.a,.b .g8.pR.z,.b .g8.pL.z{width:612px}.g9.b,.g9.p,.g9.pLR,.b .g9.pR.a,.b .g9.pR.z,.b .g9.pL.z{width:696px}.g10.b,.g10.p,.g10.pLR{width:780px}.g11.b,.g11.p,.g11.pLR{width:874px}.g12.b,.g12.p,.g12.pLR{width:948px}.b .g2.a,.b .g2.z,.p .g2.a,.p .g2.z,.g2.pR,.g2.pL{width:128px}.b .g3.a,.b .g3.z,.p .g3.a,.p .g3.z,.g3.pR,.g3.pL{width:212px}.b .g4.a,.b .g4.z,.p .g4.a,.p .g4.z,.g4.pR,.g4.pL{width:296px}.b .g5.a,.b .g5.z,.p .g5.a,.p .g5.z,.g5.pR,.g5.pL{width:380px}.b .g6.a,.b .g6.z,.p .g6.a,.p .g6.z,.g6.pR,.g6.pL{width:464px}.b .g7.a,.b .g7.z,.p .g7.a,.p .g7.z,.g7.pR,.g7.pL{width:548px}.b .g8.a,.b .g8.z,.p .g8.a,.p .g8.z,.g8.pR,.g8.pL{width:632px}.b .g9.a,.b .g9.z,.p .g9.a,.p .g9.z,.g9.pR,.g9.pL{width:716px}.b .g10.a,.b .g10.z{width:800px}.b .g11.a,.b .g11.z{width:884px}.g12.pL{width:968px}.b .g4.b.a,.b .g4.b.z{width:256px}
+
+
+::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+    opacity:0.5;
+}
+:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    opacity:0.5;
+}
+::-moz-placeholder { /* Mozilla Firefox 19+ */
+    opacity:0.5;
+}
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    opacity:0.5;
+}
