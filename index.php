@@ -220,31 +220,67 @@
                     <div class="row">
                         <div class="6u 12u(mobile)">
                             <section>
-                                <form method="post" action="#">
-                                    <div class="row 50%">
-                                        <div class="6u 12u(mobile)">
-                                            <input name="name" placeholder="Name" type="text" />
+                                <form action="https://docs.google.com/forms/d/1hcHulrzEBYnk5nnbk5jBn30zbQXp38b-6pYiKvfEqys/formResponse" method="POST" id="ss-form" target="_self" onsubmit=""><ol role="list" class="ss-question-list" style="padding-left: 0">
+                                        <div role="listitem">
+                                            <div dir="auto">
+                                                <div>
+                                                    <label for="entry_1666868842"><div>
+                                                        </div>
+                                                    </label>
+                                                    <input type="text" placeholder="Name" name="entry.1666868842" value="" id="entry_1666868842" dir="auto" aria-label=" Name " title="">
+                                                    <div id="2033579892_errorMessage"></div>
+                                                </div>
+                                            </div>
                                         </div>
-                                        <div class="6u 12u(mobile)">
-                                            <input name="email" placeholder="Email" type="text" />
+                                        <div role="listitem">
+                                            <div dir="auto">
+                                                <div>
+                                                    <label for="entry_1452282728"><div>
+                                                        </div>
+                                                    </label>
+                                                    <input type="text" placeholder="Email" name="entry.1452282728" value="" id="entry_1452282728" dir="auto" aria-label=" Email please enter a valid email address" title="please enter a valid email address">
+                                                </div>
+                                            </div>
+                                        </div> 
+                                        <div role="listitem">
+                                            <div dir="auto">
+                                                <div>
+                                                    <label for="entry_1440938763"><div>
+                                                        </div>
+                                                    </label>
+                                                    <textarea name="entry.1440938763" placeholder="Message" rows="8" cols="0" id="entry_1440938763" dir="auto" aria-label=" Message "></textarea>
+                                                    <div id="925050110_errorMessage"></div>
+                                                </div>
+                                            </div>
                                         </div>
-                                    </div>
-                                    <div class="row 50%">
-                                        <div class="12u">
-                                            <textarea name="message" placeholder="Message"></textarea>
+                                        <input type="hidden" name="draftResponse" value="[,,&quot;-2798327050817625156&quot;]
+                                               ">
+                                        <input type="hidden" name="pageHistory" value="0">
+
+                                        <input type="hidden" name="fvv" value="0">
+
+                                        <input type="hidden" name="fbzx" value="-2798327050817625156">
+
+                                        <div>
+                                            <table id="navigation-table">
+                                                <tbody>
+                                                    <tr>
+                                                        <td id="navigation-buttons" dir="ltr">
+                                                            <br>
+                                                            <input type="submit" name="submit" value="Submit" id="ss-submit">
+                                                        </td>
+                                                    </tr>
+                                                </tbody>
+                                            </table>
                                         </div>
-                                    </div>
-                                    <div class="row 50%">
-                                        <div class="12u">
-                                            <a href="#" class="form-button-submit button icon fa-envelope">Send Message</a>
-                                        </div>
-                                    </div>
+                                    </ol>
                                 </form>
                             </section>
                         </div>
                         <div class="6u 12u(mobile)">
                             <section>
-                                <p>IMPORTANT NOTE: The contact form is not fully functional at the moment. We apologize for the inconvenience. If you have any questions, please email:
+                                <br><br>
+                                <p>If you have any further questions, please email:
                                     <br>
                                     <a style="color:green; font-weight:bold;" href="mailto:asidapara@gmail.com">asidapara@gmail.com</a>
                                 </p>
