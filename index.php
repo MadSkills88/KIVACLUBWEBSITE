@@ -55,7 +55,7 @@
                                 <header>
                                     <h3>About us</h3>
                                 </header>
-                                <p><strong>The Kiva Club</strong>, a student-led organization, is dedicated to fundraising and micro-finance in order to provide loans for underprivileged people around 
+                                <p><strong>The Kiva Club</strong>, a student-led organization, is dedicated to fundraising and micro-finance in order to provide loans for underprivileged people around
                                     the world who are seeking money to jump-start their enterprises. We are a chapter of <a href="http://www.kiva.org/" target="kivalink1">KIVA</a>, the world's first online lending platform connecting online lenders to entrepreneurs </p>
                             </section>
                         </div>
@@ -80,7 +80,7 @@
                                 <header>
                                     <h3>What we do</h3>
                                 </header>
-                                <p>By fundraising in our local community, we hope to be able to provide safe micro-loans to hardworking 
+                                <p>By fundraising in our local community, we hope to be able to provide safe micro-loans to hardworking
                                     individuals around the world. Micro-financing is essential to cultivating new businesses. We want to foster growth and encourage entrepreneurship. With the support of our generous sponsors, we can turn dreams into reality. </p>
                             </section>
 
@@ -241,7 +241,7 @@
                                                     <input type="text" placeholder="Email" name="entry.1452282728" value="" id="entry_1452282728" dir="auto" aria-label=" Email please enter a valid email address" title="please enter a valid email address">
                                                 </div>
                                             </div>
-                                        </div> 
+                                        </div>
                                         <div role="listitem">
                                             <div dir="auto">
                                                 <div>
