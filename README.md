@@ -1,4 +1,4 @@
-# KIVACLUBWEBSITE
+#Kiva Club Website
 School Kiva club website
 
 ![alt tag](http://studio-anthonybao.rhcloud.com/resources/kivaclub.png)
